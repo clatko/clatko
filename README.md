@@ -2,6 +2,11 @@
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clatko&show_icons=true)](https://github.com/AVS1508)
 
+  **📫 Reach me at:**<br>
+
+![GitHub followers](https://img.shields.io/github/followers/clatko?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/clatko?style=social)
+
 <!--
 **clatko/clatko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
