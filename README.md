@@ -6,7 +6,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/clatko?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/clatko?style=social)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social)](https://www.linkedin.com/in/clatko)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clatko/)](https://www.linkedin.com/in/clatko)
 
 <!--
 **clatko/clatko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
