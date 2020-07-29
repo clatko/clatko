@@ -4,8 +4,8 @@
 
   **📫 Reach me at:**<br>
 
-![GitHub followers](https://img.shields.io/github/followers/clatko?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/clatko?style=social)
+[![GitHub followers](https://img.shields.io/github/followers/clatko?style=social)](https://github.com/clatko?tab=followers)
+[![Twitter Follow](https://img.shields.io/twitter/follow/clatko?style=social)](https://www.twitter.com/clatko)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clatko/)](https://www.linkedin.com/in/clatko)
 
 <!--
