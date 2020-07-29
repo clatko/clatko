@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clatko&show_icons=true)](https://github.com/AVS1508)
+[![clatko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clatko&show_icons=true)](https://github.com/clatko)
 
   **📫 Reach me at:**<br>
 
