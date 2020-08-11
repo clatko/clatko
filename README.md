@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-[![clatko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clatko&show_icons=true)](https://github.com/clatko)
+| [![clatko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clatko&show_icons=true&theme=graywhite&count_private=true)](https://github.com/clatko) [clatko](https://github.com/clatko) | [![clatko-globe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clatko-globe&show_icons=true&theme=graywhite&count_private=true)](https://github.com/clatko-globe) [clatko-globe](https://github.com/clatko-globe) |
+|---|---|
 
-  **📫 Reach me at:**<br>
+**📫 Reach me at:**<br>
 
 [![GitHub followers](https://img.shields.io/github/followers/clatko?style=social)](https://github.com/clatko?tab=followers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/clatko?style=social)](https://www.twitter.com/clatko)
