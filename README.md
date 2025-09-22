@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-| [![clatko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clatko&show_icons=true&theme=graywhite&count_private=true)](https://github.com/clatko) [clatko](https://github.com/clatko) | [![clatko-globe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clatko-globe&show_icons=true&theme=graywhite&count_private=true)](https://github.com/clatko-globe) [clatko-globe](https://github.com/clatko-globe) |
+| [![clatko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clatko&show_icons=true&theme=graywhite&count_private=true)](https://github.com/clatko) [clatko](https://github.com/clatko) | [![KZRKFY_gme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KZRKFY_gme&show_icons=true&theme=graywhite&count_private=true)](https://github.com/KZRKFY_gme) [KZRKFY_gme](https://github.com/KZRKFY_gme) |
 |---|---|
 
 **📫 Reach me at:**<br>
