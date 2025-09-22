@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-| [![clatko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clatko&show_icons=true&theme=graywhite&count_private=true)](https://github.com/clatko) [clatko](https://github.com/clatko) | [![KZRKFY_gme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KZRKFY_gme&show_icons=true&theme=graywhite&count_private=true)](https://github.com/KZRKFY_gme) [KZRKFY_gme](https://github.com/KZRKFY_gme) |
+| [![clatko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clatko&show_icons=true&theme=dark&count_private=true)](https://github.com/clatko) [clatko](https://github.com/clatko) | 2025 <img width="770" height="199" alt="Screenshot 2025-09-22 at 12 00 16" src="https://github.com/user-attachments/assets/0b1efbff-0d0e-43ae-b3ac-75ea58dcc3fb" /> |
 |---|---|
+
 
 **📫 Reach me at:**<br>
 
